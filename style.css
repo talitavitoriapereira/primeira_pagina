@@ -1,0 +1,34 @@
+header { 
+    background-color: white;
+}
+main {
+    background-color: rgb(193, 253, 233);
+}
+footer {
+    background-color: white;
+}
+.logo{
+    width: 500px;
+}
+.img1{
+    width: 500px;
+}
+.img2 {
+    width: 600px;
+}
+.img3 {
+    width: 600px;
+}
+.fn {
+    width: 300px;
+}
+header { 
+    text-align: center;
+}
+main {
+    text-align: center;
+}
+footer {
+    text-align: center;
+}
+
