@@ -1,34 +1,49 @@
+*{
+    margin: 0%;
+}
 header { 
     background-color: white;
+    text-align: center;
+    position: relative;
+    height: 300px;
 }
 main {
-    background-color: rgb(190, 244, 253);
+    background-color: rgb(199, 247, 255);
+    text-align: center;
+    padding: 10px;
 }
 footer {
     background-color: white;
+    text-align: center;
 }
 .logo{
     width: 500px;
+    position: absolute;
+    left: 680px;;
 }
 .img1{
     width: 500px;
+    margin: 20px;;
 }
 .img2 {
     width: 600px;
+    margin: 20px;;
 }
 .img3 {
     width: 600px;
+    margin: 20px;
 }
 .fn {
     width: 300px;
 }
-header { 
-    text-align: center;
+p{
+    margin: 10px;
 }
-main {
-    text-align: center;
-}
-footer {
-    text-align: center;
-}
+/* h1{
+    padding: 15px;
+} */
+
+
+
+
 
